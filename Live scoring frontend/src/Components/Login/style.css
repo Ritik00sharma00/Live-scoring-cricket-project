@@ -1,0 +1,15 @@
+/* Make sure this CSS file is imported in your Index.tsx component */
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .login-container {
+    background-image: url(https://img.freepik.com/free-photo/cricket-match-with-player_23-2151702185.jpg?ga=GA1.1.1770221587.1725471010&semt=ais_hybrid);    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
+ 
